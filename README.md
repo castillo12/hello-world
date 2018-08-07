@@ -1,2 +1,2 @@
 # hello-world
-This is my first work in GidHub
+This is my first change in GitHub
